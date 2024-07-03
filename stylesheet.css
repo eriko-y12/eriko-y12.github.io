@@ -208,7 +208,7 @@ aside p{
 /* MENU
 ---------------------------------------------*/
 #menu{
-    background-image: url(https://github.com/eriko-y12/eriko-y12.github.io/blob/main/menu-bg.jpg);
+    background-image: url(https://github.com/eriko-y12/eriko-y12.github.io/blob/main/menu-bg.jpg?raw=true);
     min-height: 100vh;
 }
 .menu-content{
