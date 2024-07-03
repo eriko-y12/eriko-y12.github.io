@@ -66,8 +66,9 @@ iframe{
     display: flex;
     justify-content: space-between;
 }
-.logo{
-    width: 320px;
+.logo {
+    width: 210px;
+    margin-top: 14px;
 }
 .main-nav{
     display: flex;
