@@ -174,8 +174,9 @@ aside {
     order: 3;
 }
 .ad {
-    order: 1;
+    display: none;
 }
+
 /* サイドバー */
 aside{
     width: 22%;
