@@ -174,7 +174,7 @@ aside {
     order: 3;
 }
 .ad {
-    display: none;
+    display: 1;
 }
 
 /* サイドバー */
@@ -378,6 +378,9 @@ footer p{
     .post-title,
     .post-cat{
         margin-left: 80px;
+    }
+    .ad {
+    display: none;
     }
     
     /* MENU */
